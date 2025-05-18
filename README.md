@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @youngjae019
 - 👀 I’m interested in ...
-  - software engineering
-  - computer science
+  - data science
   - art
   - chemistry
 - 🌱 I’m currently learning ...
-  - Python/Flask
-  - Node/Express
-  - React
+  - cloud computing
+  - artificial intelligence
+  - machine learning
 - 💞️ I’m looking to collaborate on ...
   - any projects where I might be useful!
 - 📫 How to reach me ...
