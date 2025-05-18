@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youngjae019
 - 👀 I’m interested in ...
   - data science
-  - art
+  - biostatistics
   - chemistry
 - 🌱 I’m currently learning ...
   - cloud computing
